@@ -1,5 +1,5 @@
 # FingerRobot
-A Robot follow human hands shape.
+Robots that follow the shape of a human hand
 
 
 
