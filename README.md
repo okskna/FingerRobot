@@ -39,7 +39,7 @@ Robots that follow the shape of a human hand
 
         ![](img/4.jpg)
 
-      - 4단계 -   ![img](file:///C:\Users\sky93\AppData\Local\Temp\DRW0000362c5dc8.gif)  값이 0도와 95도 사이일 경우 카운팅 한다. 
+      - 4단계 - 값이 0도와 95도 사이일 경우 카운팅 한다. 
 
         ![](img/5.jpg)
 
